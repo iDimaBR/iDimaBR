@@ -16,10 +16,6 @@ Hello, my name is Raphael Alexei and i like to spend my time programming things 
 ![NodeJS](https://img.shields.io/badge/NodeJS-blueviolet?logoWidth=90&style=for-the-badge)
 ![ReactJS](https://img.shields.io/badge/ReactJS-blueviolet?logoWidth=90&style=for-the-badge)
 
-### ▸ Projects Language
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iDimaBR&layout=compact&theme=synthwave&hide_title=true&langs_count=10)
-
 ### ▸ Projects Time
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&theme=synthwave)
