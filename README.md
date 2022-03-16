@@ -24,7 +24,4 @@ Hello, my name is Raphael Alexei and i like to spend my time programming things 
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=iDimaBR&theme=synthwave&show_icons=true&hide_title=true&count_private=true)
 
-# Contact
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge)](https://discord.com/users/388385602032369675)
-[![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge)](mailto:raphaeeelbr@gmail.com")
+# Contact me on [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge)](https://discord.com/users/388385602032369675)
