@@ -18,7 +18,7 @@ Hello, my name is Raphael Alexei and i like to spend my time programming things 
 
 ### ▸ Projects Time
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&theme=synthwave)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&theme=synthwave&hide_title=true&show_icons=true)
 
 ### ▸ Contributions
 
