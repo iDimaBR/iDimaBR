@@ -26,4 +26,4 @@ Hello, my name is Raphael Alexei and i like to spend my time programming things 
 
 # Contact me
 
-[![Discord](https://img.shields.io/badge/Discord%20Rapha%231624-7289DA?style=for-the-badge)](https://discord.com/users/480132651504631818)
+[![Discord Presence](https://lanyard.cnrad.dev/api/480132651504631818?animated=true)](https://discord.com/users/480132651504631818)
