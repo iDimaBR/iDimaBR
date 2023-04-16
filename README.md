@@ -1,6 +1,8 @@
 # Olá pessoal 👋
 
-Meu nome é Raphael Alexei, busco inovar mais em cada projeto que faço. Meu objetivo é seguir sendo desenvolvedor que é algo que eu amo.
+Olá! Meu nome é Raphael Alexei e sou Desenvolvedor com 5 anos em experiência freelancer. Minha paixão é tecnologia, ainda mais se forem inovadoras. Procuro sempre aprimorar minhas habilidades e explorar diversas áreas novas.
+
+Pretendo continuar aprendendo e crescer como Desenvolvedor, assim, contribuir mais para comunidade e criar inovações tecnológicas para melhorar nossa sociedade ao todo.
 
 ## Conhecimento
 
