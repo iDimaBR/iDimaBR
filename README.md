@@ -61,7 +61,7 @@ Pretendo continuar aprendendo e crescer como Desenvolvedor, assim, contribuir ma
 
 | Curso | Instituição | Horas |
 | :---: | :---: | :---: |
-| Ruby Completo | Cursa | 12 Hr |
+| Ruby Completo | Cursa | 12h |
 
 </details>
 
