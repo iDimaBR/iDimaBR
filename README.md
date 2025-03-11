@@ -1,38 +1,49 @@
-# Olá pessoal 👋 &nbsp;&nbsp;<img  src="https://komarev.com/ghpvc/?username=iDimaBR" alt="iDimaBR" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F700F7&height=120&section=header" alt="header"/> 
 
-Atualmente estou trabalhando com NodeJS e TypeScript.
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=F700F7&center=true&vCenter=true&width=700&height=60&lines=Raphael+%22iDimaBR%22;Desenvolvedor+FullStack;Empresário+Tech)](https://git.io/typing-svg)
 
-## 👉 Hobbies
+</div>
 
-- 🐝 Criador da comunidade <a href="https://discord.gg/PkYRf7E5qW">BeezCommunity</a> no Discord.
-- 🎮 Jogar **Counter Strike 2** com amigos.
-- 📖 Aprender e experimentar coisas novas.
+## 💼 Apresentação
 
-## 👉 Conhecimento
+Sou **Raphael "iDimaBR" Alexei**, um profissional de TI que transforma ideias em soluções reais. Minha experiência abrange desde a gestão de projetos até a programação prática, sempre buscando inovação e eficiência. Gosto de desafios e de trabalhar com sistemas complexos, seja desenvolvendo soluções sob medida, otimizando processos ou liderando equipes para alcançar resultados concretos.
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234A5F88.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+Minha abordagem é direta: entender o problema, explorar as possibilidades e entregar algo funcional e bem estruturado. Tecnologia para mim não é só código ou infraestrutura, mas um meio para criar, melhorar e facilitar. Seja no desenvolvimento de software, em projetos de automação ou na construção de algo totalmente novo, estou sempre em busca da melhor forma de fazer acontecer.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-5890FF?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%230B4E9B.svg?style=for-the-badge&logo=css3&logoColor=black)
-![Java](https://img.shields.io/badge/java-%23BC7800.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🛠 Habilidades & Stacks
 
-![Socket.io](https://img.shields.io/badge/Socket.io-ED1C24?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/MATERIAL%20UI-000000?style=for-the-badge&logo=mui&logoColor=white)
+### Frontend & BackEnd
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,nextjs,jquery,materialui,tailwind,vite,nodejs,express,spring,php)](https://skillicons.dev)
+### Banco de Dados & ORM
+[![Banco de Dados & ORM](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,prisma,sequelize)](https://skillicons.dev)
+### Ferramentas & Outros
+[![Outros](https://skillicons.dev/icons?i=docker,nginx,firebase,maven,git,ai,selenium,vscode)](https://skillicons.dev)
 
-## ✩ Estatísticas
+## 📊 Estatísticas
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&locale=pt-br&theme=synthwave&custom_title=➥+Horas+Desenvolvendo&hide_title=false&show_icons=true&hide=ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,JAVAini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&layout=compact&locale=pt-br&theme=synthwave&custom_title=➥+Horas+Desenvolvendo&hide_title=false&show_icons=true&hide=batchfile,nginx+configuration+file,image+(svg),ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,ini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
 
 ![Contributions](https://github-readme-stats.vercel.app/api?username=iDimaBR&theme=synthwave&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
+</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iDimaBR&theme=react-dark&custom_title=Atividade+de+Rapha&hide_border=true" alt="Atividade de Rapha" /> 
+</p>
+
+## 🎮 Curiosidades
+
+- Explorar na natureza.
+- Tecnologia do dia a dia.
+- Criador de comunidade sobre programação.
+- Vencedor no **Counter Strike 2** em horas vagas.
+- Aprender e experimentar coisas novas.
+- Bastante pontual em horários.
 
 ## ✩ Contato
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/480132651504631818)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaeeelbr@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=iDimaBR&color=blueviolet&label=VISITANTES&abbreviated=true&style=for-the-badge" alt="iDimaBR" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F700F7&height=120&section=footer" alt="footer"/>
