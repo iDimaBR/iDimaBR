@@ -40,10 +40,14 @@ Minha abordagem é direta: entender o problema, explorar as possibilidades e ent
 - Aprender e experimentar coisas novas.
 - Bastante pontual em horários.
 
-## ✩ Contato
+## ✨ Contato
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/480132651504631818)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaeeelbr@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=iDimaBR&color=blueviolet&label=VISITANTES&abbreviated=true&style=for-the-badge" alt="iDimaBR" />
+<p align="center">
+
+<p align="center">
+  <a href="https://discord.com/users/480132651504631818" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+  <a href="mailto:raphaeeelbr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> 
+  <img src="https://komarev.com/ghpvc/?username=iDimaBR&color=blueviolet&label=VISITANTES&abbreviated=true&style=for-the-badge" alt="iDimaBR" />
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F700F7&height=120&section=footer" alt="footer"/>
