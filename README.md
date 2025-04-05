@@ -23,10 +23,10 @@ Minha abordagem é direta: entender o problema, explorar as possibilidades e ent
 
 ## 📊 Estatísticas
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&layout=compact&locale=pt-br&theme=synthwave&custom_title=➥+Horas+Desenvolvendo&hide_title=false&show_icons=true&hide=batchfile,nginx+configuration+file,image+(svg),ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,ini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=iDimaBR&layout=compact&locale=pt-br&theme=synthwave&custom_title=➥+Horas+Trabalhadas+2025&hide_border=true&hide_title=false&show_icons=true&icon_color=F700F7&text_color=FFFFFF&title_color=F700F7&hide=batchfile,nginx+configuration+file,image+(svg),ini,json,html,css,csv,text,gradle,erb,kotlin,ejs,java+properties,tsconfig,ini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)<br>
+![Contributions](https://github-readme-stats.vercel.app/api?username=iDimaBR&custom_title=➥+Contribuições&locale=pt-br&theme=synthwave&show_icons=true&hide_border=true&count_private=true&icon_color=F700F7&text_color=FFFFFF&title_color=F700F7)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iDimaBR&theme=synthwave&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&stroke=F700F7&currStreakLabel=F700F7&ring=F700F7&fire=F700F7&currStreakNum=F700F7&dates=F700F7)](https://git.io/streak-stats)<br>
 
-![Contributions](https://github-readme-stats.vercel.app/api?username=iDimaBR&theme=synthwave&custom_title=➥+Contribuições&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&show_owner=true&locale=pt-br&range=all_time)
-</div>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iDimaBR&theme=react-dark&custom_title=Atividade+de+Rapha&hide_border=true" alt="Atividade de Rapha" /> 
 </p>
