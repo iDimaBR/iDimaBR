@@ -12,16 +12,20 @@ Hi! I'm **Raphael "iDimaBR" Alexei**, an IT professional who turns ideas into re
 ![Profile+File](https://komarev.com/ghpvc/?username=idimabr&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/8071c3c6-6f97-4f87-9aa5-dd5cc979ea27.svg?style=for-the-badge)](https://wakatime.com/@8071c3c6-6f97-4f87-9aa5-dd5cc979ea27)
 
-## 🛠 Skills & Stacks
+## 🛠 Core Stack
+
+[![Core](https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,express,php,mysql,sqlite,postgres,prisma,redis,docker,git,github&perline=10)](https://skillicons.dev)
+
+## 🔎 Detailed Stacks
 
 ### Frontend & Backend
-[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,nextjs,jquery,materialui,tailwind,vite,nodejs,express,spring,php)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,html,css,react,nextjs,jquery,bootstrap,materialui,tailwind,vite,nodejs,express,spring,php,java,discordjs,electron,express,flask,go,opencv,ruby,rails&perline=8)](https://skillicons.dev)
 
 ### Databases & ORM
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,prisma,sequelize)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,prisma,sequelize,hibernate,postgres,supabase&perline=10)](https://skillicons.dev)
 
 ### Tools & Others
-[![Others](https://skillicons.dev/icons?i=docker,nginx,firebase,maven,git,ai,selenium,vscode)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=docker,nginx,firebase,maven,git,github,githubactions,selenium,vscode,cloudflare,figma,gradle,vscode,tensorflow&perline=8)](https://skillicons.dev)
 
 <hr>
 <p align="center">
